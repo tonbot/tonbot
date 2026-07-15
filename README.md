@@ -98,21 +98,6 @@ I enjoy spending time on architecture because great systems are designed—not a
 
 ---
 
-## 🏗 Things I Enjoy Designing
-
-- Enterprise Applications
-- Tax Systems
-- Financial Systems
-- Rule Engines
-- Workflow Engines
-- Multi-tenant Applications
-- RBAC & Permission Systems
-- Audit Trails
-- API Platforms
-- Internal Business Tools
-
----
-
 ## 🌱 Currently Learning
 
 I'm continuously improving my knowledge in:
@@ -135,18 +120,6 @@ I'm continuously improving my knowledge in:
 
 ---
 
-## 💡 Current Interests
-
-- Enterprise Software
-- Clean Architecture
-- Domain-Driven Design
-- CQRS
-- Event Sourcing
-- Design Patterns
-- Performance Engineering
-- Software Craftsmanship
-
----
 
 ## 🤝 Let's Connect
 
