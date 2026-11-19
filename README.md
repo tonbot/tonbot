@@ -32,31 +32,7 @@ Currently, I enjoy working on:
 
 ---
 
-## 🚀 What I Do
-
-I enjoy designing software before writing code.
-
-Some of the problems I enjoy solving:
-
-- Designing scalable architectures
-- Building configurable business rule engines
-- Modeling complex business domains
-- Designing REST APIs
-- Database design & optimization
-- System integration
-- Performance optimization
-- Software architecture
-- Clean code & maintainability
-
----
-
 ## 🛠 Tech Stack
-
-### Languages
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend
 
@@ -77,24 +53,6 @@ Some of the problems I enjoy solving:
 
 Git • GitHub • Linux • Docker • REST APIs • Postman • Nginx • Apache
 
----
-
-## 🧠 Engineering Philosophy
-
-> "Good software is not measured by the number of features it has, but by how well it models the business it serves."
-
-I believe software should be:
-
-- Maintainable
-- Scalable
-- Extensible
-- Testable
-- Simple
-- Business-focused
-
-I enjoy spending time on architecture because great systems are designed—not accidentally created.
-
----
 
 ## 🌱 Currently Learning
 
@@ -124,10 +82,4 @@ I'm continuously improving my knowledge in:
 - LinkedIn: [https://linkedin.com/in/toyin-ajiboye](https://www.linkedin.com/in/toyin-ajiboye/)
 - Email: toyinajiboye24@gmail.com
 
----
 
-## ⚡ Fun Fact
-
-I enjoy breaking down complicated business problems and designing systems that make them simple.
-
-Every project starts with understanding the business before writing the first line of code.
