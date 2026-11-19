@@ -18,20 +18,6 @@ My interests go beyond writing code—I enjoy understanding business domains, de
 
 I love turning complicated business processes into elegant software solutions.
 
-Currently, I enjoy working on:
-
-- 🏛 Enterprise Applications
-- ⚙️ Backend Architecture
-- 🧩 Domain-Driven Design (DDD)
-- 🏗 System Design
-- 🔄 Workflow & Rule Engines
-- ☁️ Distributed Systems
-- 🔐 Authentication & Authorization
-- 📊 Financial & Tax Systems
-- 🚀 High Performance APIs
-
----
-
 ## 🛠 Tech Stack
 
 ### Backend
@@ -52,30 +38,6 @@ Currently, I enjoy working on:
 ### DevOps & Tools
 
 Git • GitHub • Linux • Docker • REST APIs • Postman • Nginx • Apache
-
-
-## 🌱 Currently Learning
-
-I'm continuously improving my knowledge in:
-
-- Advanced System Design
-- Distributed Systems
-- Event-Driven Architecture
-- Microservices
-- Kubernetes
-- Software Architecture Patterns
-- Cloud Infrastructure
-
----
-
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=tonbot&show_icons=true&theme=github_dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tonbot&layout=compact&theme=github_dark)
-
----
-
 
 ## 🤝 Let's Connect
 
